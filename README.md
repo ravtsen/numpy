@@ -22,13 +22,12 @@ Let's catch it
 
 NumPy is the fundamental package for scientific computing with Python.
 
+Catch me if you can
+
 - **Website:** https://www.numpy.org
 - **Documentation:** https://numpy.org/doc
 - **Mailing list:** https://mail.python.org/mailman/listinfo/numpy-discussion
-- **Source code:** https://github.com/numpy/numpy
-- **Contributing:** https://www.numpy.org/devdocs/dev/index.html
-- **Bug reports:** https://github.com/numpy/numpy/issues
-- **Report a security vulnerability:** https://tidelift.com/docs/security
+
 
 It provides:
 
