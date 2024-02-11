@@ -17,6 +17,8 @@ https://stackoverflow.com/questions/tagged/numpy)
 https://doi.org/10.1038/s41586-020-2649-2)
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/numpy/numpy/badge)](https://api.securityscorecards.dev/projects/github.com/numpy/numpy)
 
+Are there any other changes I can do?
+Let's catch it
 
 NumPy is the fundamental package for scientific computing with Python.
 
